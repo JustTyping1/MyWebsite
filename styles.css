@@ -10,12 +10,24 @@
 
 .introtext {
     font-family: Helvetica, sans-serif;
-    margin-top: 50px;
+    margin-top: 25px;
     font-size: 20px;
     font-weight: 20;
     text-align: center;
     color: black;
     z-index: 1000;
+    padding: 30px;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 20;
+    text-align: center;
+    color: black;
+    z-index: 1000;
+    padding: 10px;
 }
 
 body {
