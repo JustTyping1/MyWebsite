@@ -56,6 +56,22 @@ body{
     margin-right: 1520px;
 }
 
+.Toolkit-description{
+    position: absolute;
+    top: 338px;
+    margin-top: 200px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+    color: black;
+    text-decoration: none;
+    padding: 0 20px;
+    margin-left: 800px;
+    margin-right: 820px;
+}
+
+
 .linreginfo{
     font-family: sans-serif;
     font-size: 20px;
