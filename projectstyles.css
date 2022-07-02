@@ -32,3 +32,40 @@ body{
     margin-left: 100px;
     clip-path: circle();
 }
+
+.img-toolkit{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+    clip-path: circle();
+}
+
+.Stock-description{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+    color: black;
+    text-decoration: none;
+    position: relative;
+    padding: 0 20px;
+    top: 38px;
+    margin-left: 100px;
+    margin-right: 1520px;
+}
+
+.linreginfo{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+    color: blue;
+    text-decoration: none;
+    position: relative;
+    padding: 0 20px;
+    top: 38px;
+    margin-left: 100px;
+    margin-right: 1520px;
+}
