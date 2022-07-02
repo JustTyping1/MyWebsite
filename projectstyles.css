@@ -42,6 +42,15 @@ body{
     clip-path: circle();
 }
 
+.img-physics{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 1500px;
+    top: 200px;
+    clip-path: circle();
+}
+
 .Stock-description{
     font-family: sans-serif;
     font-size: 20px;
@@ -71,6 +80,20 @@ body{
     margin-right: 820px;
 }
 
+.Physics-description{
+    position: absolute;
+    top: 338px;
+    margin-top: 200px;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    text-align: left;
+    color: black;
+    text-decoration: none;
+    padding: 0 20px;
+    margin-left: 1500px;
+    margin-right: 120px;
+}
 
 .linreginfo{
     font-family: sans-serif;
