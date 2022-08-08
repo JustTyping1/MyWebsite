@@ -21,6 +21,7 @@
 
 .quote {
     text-align: right;
+
 }
 
 p {
@@ -49,7 +50,6 @@ ul a {
     font-family: sans-serif;
     font-size: 20px;
     font-weight: 100;
-    text-align: center;
     color: black;
     text-decoration: none;
     position: relative;
